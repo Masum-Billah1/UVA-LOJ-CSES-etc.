@@ -1,0 +1,1 @@
+NAM means not a number.it means the representation number is not possible...e.g:-root(-0.5)
